@@ -1,0 +1,27 @@
+.container{
+
+    background-color: aquamarine;
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-height: 1000px;
+}
+
+input{
+
+    
+    margin: auto;
+    display: block;
+    margin-bottom: 8px;
+    padding: 10px;
+    border: none;
+
+}
+
+body{
+
+    text-align: center;
+}
+
+
